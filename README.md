@@ -1,4 +1,11 @@
-This project is to practice the concept of recursion by creating two methods:
+<h1>Recursion</h1>
 
-fibonacci
-merge_sort
+This project features two methods to practice the concept of recursion:
+
+- fibonacci
+- merge_sort
+
+- The full project details can be found here:
+
+https://www.theodinproject.com/courses/ruby-programming/lessons/recursion
+
